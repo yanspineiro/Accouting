@@ -1,0 +1,52 @@
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormAudit_Sales.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormMatch.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Form_Manual_Insert.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.Form_PrintReport.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Principal.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.csproj.GenerateResource.Cache
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll.config
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.pdb
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.tlb
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.dll
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.pdb
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll.config
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.pdb
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\SF_Lib.tlb
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormAudit_Sales.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormMatch.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Form_Manual_Insert.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.Form_PrintReport.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Principal.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.csproj.GenerateResource.Cache
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.dll
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.pdb
+E:\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormAudit_Sales.resources
+E:\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.FormMatch.resources
+E:\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Form_Manual_Insert.resources
+E:\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.Form_PrintReport.resources
+E:\SF_Lib\SF_Lib\obj\Debug\SF_Lib.Principal.resources
+E:\SF_Lib\SF_Lib\obj\Debug\SF_Lib.csproj.GenerateResource.Cache
+E:\SF_Lib\SF_Lib\obj\Debug\SF_Lib.dll
+E:\SF_Lib\SF_Lib\obj\Debug\SF_Lib.pdb
+E:\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll.config
+E:\SF_Lib\SF_Lib\bin\Debug\SF_Lib.dll
+E:\SF_Lib\SF_Lib\bin\Debug\SF_Lib.pdb
+E:\SF_Lib\SF_Lib\bin\Debug\SF_Lib.tlb
+E:\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.dll
+E:\SF_Lib\SF_Lib\bin\Debug\System.Linq.Dynamic.dll
+E:\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.pdb
+E:\SF_Lib\SF_Lib\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.ReCalculatePolicyForm.resources
+C:\Users\Yans\Documents\Visual Studio 2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.csprojResolveAssemblyReference.cache
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\winform_SF_Lib.ReCalculatePolicyForm.resources
+C:\Users\Yans\Documents\VisualStudio2013\Projects\SF_Lib\SF_Lib\obj\Debug\SF_Lib.csprojResolveAssemblyReference.cache
